@@ -73,12 +73,3 @@
 - The footnote can contain multiparagraphs
 
 ## 13. HeadID
-
-- Use
-
-hello[^1]
-world[^2]
-
-[^1]: fuck bf grg
-[^2]: dfjeifghi fheif
-dsdwdw
